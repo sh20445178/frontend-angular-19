@@ -35,12 +35,12 @@ export class HomeComponent {
           icon: 'far fa-clone',
           link: 'components'
         },
-        {
-          name: 'Services',
-          description: 'Use services to view a playlist and a youtube player',
-          icon: 'fas fa-handshake',
-          link: 'services'
-        },
+        // {
+        //   name: 'Services',
+        //   description: 'Use services to view a playlist and a youtube player',
+        //   icon: 'fas fa-handshake',
+        //   link: 'services'
+        // },
         {
           name: 'Reactive Forms',
           description: 'A model-driven approach to handling form inputs',

@@ -123,6 +123,7 @@
   "cli": {
     "schematicCollections": [
       "angular-eslint"
-    ]
+    ],
+    "analytics": "490f1b7b-c637-4f5b-b842-53be9c2bd98c"
   }
 }
